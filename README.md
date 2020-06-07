@@ -12,7 +12,7 @@ Backend:PHP,
 # Database Entity Relationship Diagram: 
 <img src ="./ER_Diagram_Project.jpeg" />
 # Database Relational Schema:
-<img src ="./relationalSchema.jpg" />
+<img src ="./relationalSchema.jpeg" />
 
 
 
