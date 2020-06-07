@@ -43,6 +43,7 @@ Does	not	include	when	a	scooter	is	in	service(maintenance).
 
 # Database Entity Relationship Diagram: 
 <img src ="./ER_Diagram_Project.jpeg" />
+
 # Database Relational Schema:
 <img src ="./relationalSchema.jpeg" />
 
